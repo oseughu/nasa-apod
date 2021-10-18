@@ -97,7 +97,7 @@ input {
 @media (max-width: 575.98px) {
   body {
     text-align: center;
-    font-size: 2.5rem;
+    font-size: xx-large;
   }
 
   input {
@@ -111,7 +111,7 @@ input {
 @media (max-width: 767.98px) {
   body {
     text-align: center;
-    font-size: 2.5rem;
+    font-size: xx-large;
   }
 
   input {
@@ -125,7 +125,7 @@ input {
 @media (max-width: 991.98px) {
   body {
     text-align: center;
-    font-size: large;
+    font-size: x-large;
   }
 
   input {
@@ -139,7 +139,7 @@ input {
 @media (max-width: 1199.98px) {
   body {
     text-align: center;
-    font-size: large;
+    font-size: x-large;
   }
 
   input {
