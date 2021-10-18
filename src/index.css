@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Righteous&display=swap");
 
 body {
-  box-sizing: border-box;
+  overflow-x: hidden;
   font-family: "Righteous", cursive;
   color: #d14f4f;
   line-height: 1.7;
@@ -97,6 +97,7 @@ input {
 /* Smaller devices (iPhone 5/6/7/8, less than 576px) */
 @media (max-width: 575.98px) {
   body {
+    overflow-x: hidden;
     text-align: center;
     font-size: xx-large;
   }
@@ -111,6 +112,7 @@ input {
 /* Small devices (phablets, iPhone 6/7/8 Plus, less than 768px) */
 @media (max-width: 767.98px) {
   body {
+    overflow-x: hidden;
     text-align: center;
     font-size: xx-large;
   }
@@ -125,6 +127,7 @@ input {
 /*  Medium devices (tablets, iPad 9.7", less than 992px) */
 @media (max-width: 991.98px) {
   body {
+    overflow-x: hidden;
     text-align: center;
     font-size: x-large;
   }
@@ -139,6 +142,7 @@ input {
 /* Large devices (desktops, iPad Pro, Surface, less than 1200px)  */
 @media (max-width: 1199.98px) {
   body {
+    overflow-x: hidden;
     text-align: center;
     font-size: x-large;
   }
@@ -152,6 +156,10 @@ input {
 
 /* Large devices (desktops, less than 1280px)  */
 @media (max-width: 1279.98px) {
+  body {
+    overflow-x: hidden;
+  }
+
   .nasa-photo {
     display: block;
   }
