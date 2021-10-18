@@ -1,6 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Righteous&display=swap");
 
 body {
+  box-sizing: border-box;
   font-family: "Righteous", cursive;
   color: #d14f4f;
   line-height: 1.7;
