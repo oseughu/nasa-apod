@@ -135,7 +135,7 @@ input {
   }
 }
 
-/* Large devices (desktops, iPad Pro, less than 1200px)  */
+/* Large devices (desktops, iPad Pro, Surface, less than 1200px)  */
 @media (max-width: 1199.98px) {
   body {
     text-align: center;
