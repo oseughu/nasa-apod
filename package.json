@@ -1,6 +1,6 @@
 {
   "name": "nasa-apod",
-  "homepage": "https://oseughu.github.io/nasa-apod",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
