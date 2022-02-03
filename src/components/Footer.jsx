@@ -3,7 +3,7 @@ const currentYear = new Date().getFullYear();
 const Footer = () => {
   return (
     <footer>
-      <ul className="link">Ose Ughu &copy; {currentYear}</ul>
+      <ul className="link">&copy; Ose Ughu {currentYear}</ul>
     </footer>
   );
 };
