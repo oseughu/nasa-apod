@@ -1,6 +1,6 @@
-import Header from "./Header";
-import Footer from "./Footer";
-import NasaPhoto from "./NasaPhoto";
+import Header from './Header'
+import Footer from './Footer'
+import NasaPhoto from './NasaPhoto'
 
 const App = () => {
   return (
@@ -9,7 +9,7 @@ const App = () => {
       <NasaPhoto />
       <Footer />
     </>
-  );
-};
+  )
+}
 
-export default App;
+export default App
